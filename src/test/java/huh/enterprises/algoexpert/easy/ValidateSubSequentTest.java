@@ -1,4 +1,4 @@
-package huh.enterprises.algoexpert;
+package huh.enterprises.algoexpert.easy;
 
 import org.junit.jupiter.api.Test;
 
